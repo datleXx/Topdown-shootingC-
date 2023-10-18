@@ -1,0 +1,30 @@
+SplashKit Animation
+
+//
+// This animation file contains the SwinGame splash screen
+// animation. 
+//
+
+//Frames are declared with an f: and contain
+//the following comma separated values
+//
+//f: ID,CELL,DUR,NEXT
+//
+// ID   = the frame number (must be unique in this file)
+// CELL = the cell number to play at this frame from the bitmap
+// DUR  = the duration to play this cell for (number of updates)
+// NEXT = the next frame number (or empty for no next frame)
+// 
+// The frames/cells can be expressed as ranges:
+//  [a-b]   = numbers from a to b inclusive
+//  [a,b,c] = explicit values
+//  [a-b,c] = combination
+
+//all the frames are loaded 
+f:[0-63], [0-63], 1, 
+
+
+//Animation Identifier 
+
+
+

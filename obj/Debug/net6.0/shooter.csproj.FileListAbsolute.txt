@@ -1,0 +1,16 @@
+D:\OOP\HD\Shooter\bin\Debug\net6.0\shooter.exe
+D:\OOP\HD\Shooter\bin\Debug\net6.0\shooter.deps.json
+D:\OOP\HD\Shooter\bin\Debug\net6.0\shooter.runtimeconfig.json
+D:\OOP\HD\Shooter\bin\Debug\net6.0\shooter.dll
+D:\OOP\HD\Shooter\bin\Debug\net6.0\shooter.pdb
+D:\OOP\HD\Shooter\obj\Debug\net6.0\shooter.csproj.AssemblyReference.cache
+D:\OOP\HD\Shooter\obj\Debug\net6.0\shooter.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\HD\Shooter\obj\Debug\net6.0\shooter.AssemblyInfoInputs.cache
+D:\OOP\HD\Shooter\obj\Debug\net6.0\shooter.AssemblyInfo.cs
+D:\OOP\HD\Shooter\obj\Debug\net6.0\shooter.csproj.CoreCompileInputs.cache
+D:\OOP\HD\Shooter\obj\Debug\net6.0\shooter.dll
+D:\OOP\HD\Shooter\obj\Debug\net6.0\refint\shooter.dll
+D:\OOP\HD\Shooter\obj\Debug\net6.0\shooter.pdb
+D:\OOP\HD\Shooter\obj\Debug\net6.0\shooter.genruntimeconfig.cache
+D:\OOP\HD\Shooter\obj\Debug\net6.0\ref\shooter.dll
+D:\OOP\HD\Shooter\bin\Debug\net6.0\shooter.dll.config

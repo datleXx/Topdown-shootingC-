@@ -1,0 +1,64 @@
+D:\OOP\HD\Shooter - Copy\bin\Debug\net6.0\shooter_backup.exe
+D:\OOP\HD\Shooter - Copy\bin\Debug\net6.0\shooter_backup.dll.config
+D:\OOP\HD\Shooter - Copy\bin\Debug\net6.0\shooter_backup.deps.json
+D:\OOP\HD\Shooter - Copy\bin\Debug\net6.0\shooter_backup.runtimeconfig.json
+D:\OOP\HD\Shooter - Copy\bin\Debug\net6.0\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy\bin\Debug\net6.0\shooter_backup.pdb
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\shooter_backup.csproj.AssemblyReference.cache
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\shooter_backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\shooter_backup.AssemblyInfoInputs.cache
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\shooter_backup.AssemblyInfo.cs
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\shooter_backup.csproj.CoreCompileInputs.cache
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\refint\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\shooter_backup.pdb
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\shooter_backup.genruntimeconfig.cache
+D:\OOP\HD\Shooter - Copy\obj\Debug\net6.0\ref\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\shooter_backup.csproj.AssemblyReference.cache
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\shooter_backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\shooter_backup.AssemblyInfoInputs.cache
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\shooter_backup.AssemblyInfo.cs
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\shooter_backup.csproj.CoreCompileInputs.cache
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\refint\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\shooter_backup.pdb
+D:\OOP\HD\Shooter - Copy - Copy\bin\Debug\net6.0\shooter_backup.exe
+D:\OOP\HD\Shooter - Copy - Copy\bin\Debug\net6.0\shooter_backup.dll.config
+D:\OOP\HD\Shooter - Copy - Copy\bin\Debug\net6.0\shooter_backup.deps.json
+D:\OOP\HD\Shooter - Copy - Copy\bin\Debug\net6.0\shooter_backup.runtimeconfig.json
+D:\OOP\HD\Shooter - Copy - Copy\bin\Debug\net6.0\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy - Copy\bin\Debug\net6.0\shooter_backup.pdb
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\shooter_backup.genruntimeconfig.cache
+D:\OOP\HD\Shooter - Copy - Copy\obj\Debug\net6.0\ref\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\shooter_backup.csproj.AssemblyReference.cache
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\shooter_backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\shooter_backup.AssemblyInfoInputs.cache
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\shooter_backup.AssemblyInfo.cs
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\shooter_backup.csproj.CoreCompileInputs.cache
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\refint\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\shooter_backup.pdb
+D:\OOP\HD\Shooter - Copy - Copy - Copy\bin\Debug\net6.0\shooter_backup.exe
+D:\OOP\HD\Shooter - Copy - Copy - Copy\bin\Debug\net6.0\shooter_backup.dll.config
+D:\OOP\HD\Shooter - Copy - Copy - Copy\bin\Debug\net6.0\shooter_backup.deps.json
+D:\OOP\HD\Shooter - Copy - Copy - Copy\bin\Debug\net6.0\shooter_backup.runtimeconfig.json
+D:\OOP\HD\Shooter - Copy - Copy - Copy\bin\Debug\net6.0\shooter_backup.dll
+D:\OOP\HD\Shooter - Copy - Copy - Copy\bin\Debug\net6.0\shooter_backup.pdb
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\shooter_backup.genruntimeconfig.cache
+D:\OOP\HD\Shooter - Copy - Copy - Copy\obj\Debug\net6.0\ref\shooter_backup.dll
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\shooter_backup.csproj.AssemblyReference.cache
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\shooter_backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\shooter_backup.AssemblyInfoInputs.cache
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\shooter_backup.AssemblyInfo.cs
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\shooter_backup.csproj.CoreCompileInputs.cache
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\shooter_backup.dll
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\refint\shooter_backup.dll
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\shooter_backup.pdb
+D:\OOP\HD\HDProject_final - Copy\bin\Debug\net6.0\shooter_backup.exe
+D:\OOP\HD\HDProject_final - Copy\bin\Debug\net6.0\shooter_backup.dll.config
+D:\OOP\HD\HDProject_final - Copy\bin\Debug\net6.0\shooter_backup.deps.json
+D:\OOP\HD\HDProject_final - Copy\bin\Debug\net6.0\shooter_backup.runtimeconfig.json
+D:\OOP\HD\HDProject_final - Copy\bin\Debug\net6.0\shooter_backup.dll
+D:\OOP\HD\HDProject_final - Copy\bin\Debug\net6.0\shooter_backup.pdb
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\shooter_backup.genruntimeconfig.cache
+D:\OOP\HD\HDProject_final - Copy\obj\Debug\net6.0\ref\shooter_backup.dll
